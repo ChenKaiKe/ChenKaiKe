@@ -1,6 +1,6 @@
 # <p algin="center">Hi there, I'm ChenKaiKe <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p> 
 
-<a href="https://app.daily.dev/ChenKaiKe"><img  align="right" src="https://api.daily.dev/devcards/80fbded6be4c430fa90310284f493911.png?r=o2j" width="300" alt="ChenKaiKe's Dev Card"/></a>
+<a href="https://app.daily.dev/ChenKaiKe" target="_blank"><img  align="right" src="https://api.daily.dev/devcards/80fbded6be4c430fa90310284f493911.png?r=o2j" width="300" alt="ChenKaiKe's Dev Card"/></a>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
@@ -19,32 +19,24 @@ Email: 1448657054@qq.com
 <br />
 
 ## Connect with me  
-<a href="https://dev.to/ChenKaike" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ChenKaike" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ChenKaike" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ChenKaike" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://github.com/ChenKaike" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/ChenKaike" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<a href="https://segmentfault.com/u/seconddog" target="_blank">
+<img src=https://img.shields.io/badge/segmentfault-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.zhihu.com/people/qian-duan-xiao-xue-sheng-52" target="_blank">
+<img src=https://img.shields.io/badge/kaike-%23F28032.svg?&style=for-the-badge&logo=zhihu&logoColor=#06f?color=fedcba alt=kaike style="margin-bottom: 5px;" />
+</a>
+<a href="https://juejin.cn/user/2541726613379437" target="_blank">
+<img src=https://img.shields.io/badge/掘金-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/ChenKaike" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ChenKaike" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/ChenKaike" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<a href="https://dev.to/ChenKaike" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/ChenKaike" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
@@ -109,7 +101,7 @@ Email: 1448657054@qq.com
 
 ![ChenKaiKe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenKaiKe&show_icons=true&count_private=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenKaiKe&langs_count=8&layout=compact)
 
-![](https://activity-graph.herokuapp.com/graph?username=ChenKaiKe&theme=github)
+![ChenKaiKe](https://activity-graph.herokuapp.com/graph?username=ChenKaiKe&theme=github)
 
 
 ## Thank you for the visit.
